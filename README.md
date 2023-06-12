@@ -10,4 +10,5 @@
 #### 2. AJAX/Asynchronous JavaScript And XML
 #### 3. SQLITE 3 for the Database
 #### 4. HTML
-
+#### 5. Python 3.7
+#### 6. Django 2.2.11
